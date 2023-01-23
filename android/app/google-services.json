@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "776157995559",
+    "project_id": "doctor-patient-d662c",
+    "storage_bucket": "doctor-patient-d662c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776157995559:android:680065c894831dfa376402",
+        "android_client_info": {
+          "package_name": "com.example.doctors_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776157995559-0ef315d0aidk4nv86oil48hemc9e6kjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMSbQJtILPZ_7OdXgncekTUix2Jcug_zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776157995559-0ef315d0aidk4nv86oil48hemc9e6kjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776157995559:android:9c1e3b21a41303dc376402",
+        "android_client_info": {
+          "package_name": "com.example.patient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776157995559-0ef315d0aidk4nv86oil48hemc9e6kjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMSbQJtILPZ_7OdXgncekTUix2Jcug_zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776157995559-0ef315d0aidk4nv86oil48hemc9e6kjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
